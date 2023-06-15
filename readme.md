@@ -10,7 +10,7 @@ The repository contains a Python script that can be used to load an ONNX model f
 ## Dependencies
 Python 3.x
 
-NumPy
+numpy
 python-opencv 
 onnxruntime
 matplotlib
@@ -19,7 +19,9 @@ matplotlib
 To use the code in this repository, you can follow these steps:
 
 Clone the repository to your device: git clone https://github.com/AlbertoAncilotto/YoloV8_pose_onnx
+
 Install the required dependencies: pip install numpy opencv-python onnxruntime matplotlib
+
 Download an ONNX model file for YOLOv8 pose detection and place it in the root directory.
 
 ## License
